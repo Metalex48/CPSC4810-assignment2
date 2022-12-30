@@ -1,5 +1,5 @@
 # CPSC4810-assignment2
-Assignment 2 of CPSC 4810 in Langara College. Here we read do the following:
+Assignment 2 of CPSC 4810 in Langara College. Here we do the following:
 - Read a CSV file and turn it into a Pandas dataframe.
 - Analyze the dataframe to get some insights.
 - Display some values with the help of Matplotlib.
